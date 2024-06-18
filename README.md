@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ebrar</h1>
-<h3 align="center">An passionate software engineering student from Turkiye</h3>
--🌱 I'm just getting started :d
+
 ![MasterHead](https://github.com/ebraragrali/ebraragrali/blob/main/img/Github%20Banner.jpg)
 ![](https://komarev.com/ghpvc/?username=ebraragrali&color=blue)
 <div align="center">
