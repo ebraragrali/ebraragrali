@@ -1,5 +1,4 @@
 
-![MasterHead](https://github.com/ebraragrali/ebraragrali/blob/main/img/Github%20Banner.jpg)
 ![](https://komarev.com/ghpvc/?username=ebraragrali&color=blue)
 <div align="center">
  <a href="https://github.com/ebraragrali">
