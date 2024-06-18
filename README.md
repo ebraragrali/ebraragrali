@@ -1,4 +1,19 @@
 ![](https://komarev.com/ghpvc/?username=ebraragrali&color=blue)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing SVG</title>
+</head>
+<body>
+    <div align="center">
+        <a href="https://github.com/ebraragrali">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Ebrar+A%C4%9Fral%C4%B1+%E2%9C%A8;%F0%9F%93%9A+Software+Engineering+Student+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
+        </a>
+    </div>
+</body>
+</html>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
