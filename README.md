@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ebraragrali&color=green)
 <div align="center">
  <a href="https://github.com/ebraragrali">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF66CC&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Trying+to+learn+GitHub+😂"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF66CC&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+👩🏼‍💻;Trying+to+learn+GitHub+🥲"
 alt="Typing SVG" />
 
 
