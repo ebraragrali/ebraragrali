@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=ebraragrali&color=green)
 <div align="center">
  <a href="https://github.com/ebraragrali">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF66CC&center=true&vCenter=true&width=500&lines=Ebrar+Ağralı;Software+Engineering+Student;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF66CC&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Trying+to+learn+GitHub+😂"
+alt="Typing SVG" />
 
 
 
@@ -30,7 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebraragrali&show_icons=true&locale=en" alt="ebraragrali" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebraragrali&" alt="ebraragrali" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebraragrali/ebraragrali/output/github-contribution-grid-snake-dark.svg">
