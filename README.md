@@ -29,8 +29,6 @@ alt="Typing SVG" />
 </p> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebraragrali&show_icons=true&locale=en&layout=compact" alt="ebraragrali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebraragrali&show_icons=true&locale=en" alt="ebraragrali" /></p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebraragrali/ebraragrali/output/github-contribution-grid-snake-dark.svg">
