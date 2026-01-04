@@ -12,7 +12,7 @@ alt="Typing SVG" />
 <p align="left">
 <a href="https://linkedin.com/in/ebrarağralı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebrarağralı" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -24,25 +24,11 @@ alt="Typing SVG" />
 <a href="https://www.java.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 </a>
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
 <a href="https://www.w3.org/html/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<!-- AI / Data -->
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-</a>
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
 </a>
 
 <!-- Databases -->
@@ -50,15 +36,12 @@ alt="Typing SVG" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Frameworks & Tools -->
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<!-- GUI / Desktop -->
+<a href="https://riverbankcomputing.com/software/pyqt/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Qt_logo_2016.svg" width="40" height="40"/>
 </a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-</a>
-<a href="https://colab.research.google.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/swing/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 </a>
 
 <!-- Game Dev -->
@@ -70,6 +53,7 @@ alt="Typing SVG" />
 </a>
 
 </p>
+>
 
 
 
