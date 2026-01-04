@@ -37,9 +37,7 @@ alt="Typing SVG" />
 </a>
 
 <!-- GUI / Desktop -->
-<a href="https://riverbankcomputing.com/software/pyqt/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Qt_logo_2016.svg" width="40" height="40"/>
-</a>
+
 <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/swing/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 </a>
