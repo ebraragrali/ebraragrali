@@ -36,11 +36,7 @@ alt="Typing SVG" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </a>
 
-<!-- GUI / Desktop -->
 
-<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/swing/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
 
 <!-- Game Dev -->
 <a href="https://unity.com/" target="_blank">
