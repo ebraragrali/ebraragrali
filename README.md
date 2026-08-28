@@ -5,14 +5,12 @@
 
 <!-- Header -->
 <div align="center">
-
   <a href="https://github.com/ebraragrali">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF66CC&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Building+%E2%80%A2+Breaking+%E2%80%A2+Learning"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF66CC&center=true&vCenter=true&width=620&lines=Software+Engineering+Student+%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Building+%E2%80%A2+Breaking+%E2%80%A2+Learning"
       alt="Typing SVG"
     />
   </a>
-
 </div>
 
 <br>
@@ -24,7 +22,7 @@
 • 4th-year Software Engineering student<br>
 • Interested in software development, systems, and emerging technologies<br>
 • Gaining hands-on experience through internships and engineering projects<br>
-• Always exploring new technologies and improving my skills
+• Exploring different technologies through hands-on projects and continuous learning
 </p>
 
 <br>
@@ -46,6 +44,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -68,7 +67,10 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-## Projects
+<br>
+
+<!-- Projects -->
+<h2>Projects</h2>
 
 ### Model Satellite Ground Station
 
@@ -94,7 +96,8 @@ Deep learning project focused on distinguishing real human faces from AI-generat
 
 AI-powered study platform designed for YDS and YÖKDİL exam preparation, including vocabulary practice, exercises, progress tracking, and AI-assisted learning features.
 
-**Role:** Developer — contributed to the development and implementation of application features.
+**Role:** Developer  
+**Contribution:** Contributed to the development and implementation of application features.
 
 [View Repository](https://github.com/ebraragrali/YZTA-Bootcamp)
 
@@ -105,11 +108,30 @@ AI-powered study platform designed for YDS and YÖKDİL exam preparation, includ
 A collaborative game developed for the Google Game & Application Academy Game Jam.
 
 **Role:** Developer  
-**Contributions:** Implemented gameplay mechanics in C#, including character movement and enemy chase behavior.
+**Contribution:** Implemented gameplay mechanics in C#, including character movement and enemy chase behavior.
 
 `Unity` `C#`
 
 [View Repository](https://github.com/mtalhaYAYLA/Google-Jam-2024)
+
+<br>
+
+<!-- GitHub Stats -->
+<h2>GitHub Stats</h2>
+
+<div align="center">
+
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=ebraragrali&show_icons=true&theme=transparent&hide_border=true"
+  />
+
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebraragrali&layout=compact&theme=transparent&hide_border=true"
+  />
+
+</div>
 
 <br>
 
