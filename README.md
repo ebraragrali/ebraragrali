@@ -68,6 +68,49 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
+## Projects
+
+### Model Satellite Ground Station
+
+Ground station GUI developed for the 2025 TEKNOFEST Model Satellite Competition, featuring telemetry monitoring, real-time data visualization, camera recording, GPS tracking, 3D orientation visualization, and mission control features.
+
+`Python` `PyQt6` `Telemetry` `GPS` `Data Visualization`
+
+[View Repository](https://github.com/ebraragrali/teknofest-model-uydu-gui-2025)
+
+---
+
+### Real vs AI Faces
+
+Deep learning project focused on distinguishing real human faces from AI-generated facial images using image classification techniques.
+
+`Python` `Deep Learning` `Image Classification`
+
+[View Repository](https://github.com/ebraragrali/real-vs-ai-faces)
+
+---
+
+### PrepMate
+
+AI-powered study platform designed for YDS and YÖKDİL exam preparation, including vocabulary practice, exercises, progress tracking, and AI-assisted learning features.
+
+**Role:** Developer — contributed to the development and implementation of application features.
+
+[View Repository](https://github.com/ebraragrali/YZTA-Bootcamp)
+
+---
+
+### Google Game Jam 2024
+
+A collaborative game developed for the Google Game & Application Academy Game Jam.
+
+**Role:** Developer  
+**Contributions:** Implemented gameplay mechanics in C#, including character movement and enemy chase behavior.
+
+`Unity` `C#`
+
+[View Repository](https://github.com/mtalhaYAYLA/Google-Jam-2024)
+
 <br>
 
 <!-- Connect -->
