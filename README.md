@@ -116,25 +116,6 @@ A collaborative game developed for the Google Game & Application Academy Game Ja
 
 <br>
 
-<!-- GitHub Stats -->
-<h2>GitHub Stats</h2>
-
-<div align="center">
-
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=ebraragrali&show_icons=true&theme=transparent&hide_border=true"
-  />
-
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebraragrali&layout=compact&theme=transparent&hide_border=true"
-  />
-
-</div>
-
-<br>
-
 <!-- Connect -->
 <h2>Connect with Me</h2>
 
