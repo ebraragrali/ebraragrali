@@ -21,10 +21,10 @@
 <h2>About Me</h2>
 
 <p>
--4th-year Software Engineering student<br>
--Interested in software development, systems, and emerging technologies<br>
--Gaining hands-on experience through internships and engineering projects<br>
--Always exploring new technologies and improving my skills
+• 4th-year Software Engineering student<br>
+• Interested in software development, systems, and emerging technologies<br>
+• Gaining hands-on experience through internships and engineering projects<br>
+• Always exploring new technologies and improving my skills
 </p>
 
 <br>
