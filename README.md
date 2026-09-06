@@ -112,7 +112,7 @@ Collaborative Game Jam project where I implemented character movement and enemy 
 <h2>Connect with Me</h2>
 
 <p>
-  <a href="https://linkedin.com/in/ebrarağralı">
+  <a href="https://linkedin.com/in/ebraragrali">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
